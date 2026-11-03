@@ -105,7 +105,7 @@ public class Oct21 {
 //        System.out.println("Savings Account");
 //    }
 //}
-//
+
 //public class SmartATM {
 //    public static void main(String[] args) {
 //        Scanner sc = new Scanner(System.in);
